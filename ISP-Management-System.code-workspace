@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "ISP Management System",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "java.project.sourcePaths": [
+      "backend/src/main/java",
+      "frontend/src/main/java"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
